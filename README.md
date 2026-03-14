@@ -127,6 +127,28 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Maher767Ahmad/Maher767Ahmad/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+## 📁 Featured Projects
+
+<div align="center">
+
+| Project Name | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Project 1** | A brief description of what this amazing project does. | `Flutter` `Firebase` | [View Repo](#) |
+| **Project 2** | Another awesome project that solves a complex problem. | `Laravel` `MySQL` | [View Repo](#) |
+| **Project 3** | A full-stack application with stunning UI/UX. | `React` `Node.js` | [View Repo](#) |
+
+</div>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Maher767Ahmad&label=Profile+Views&color=00c8ff&style=flat-square" />
   <br/>
