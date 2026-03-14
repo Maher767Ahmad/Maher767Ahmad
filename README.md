@@ -142,8 +142,8 @@
 
 | Project Name | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Project 1** | A brief description of what this amazing project does. | `Flutter` `Firebase` | [View Repo](#) |
-| **Project 2** | Another awesome project that solves a complex problem. | `Laravel` `MySQL` | [View Repo](#) |
+| **FaithWay** | A feature-rich Islamic lifestyle app with prayer timings, Qibla finder, Quran reader, and Namaz tracker. | `Flutter` `Firebase` `Hive` `OneSignal` | [View Repo](https://github.com/Maher767Ahmad/Final_Year_Projects) |
+| **BGNU Digital Library** | A modern digital repository with offline PDF reading, department-wise books, and an admin management panel. | `Flutter` `PHP` `MySQL` `Hive` | [View Repo](https://github.com/Maher767Ahmad/portfolio) |
 | **Project 3** | A full-stack application with stunning UI/UX. | `React` `Node.js` | [View Repo](#) |
 
 </div>
