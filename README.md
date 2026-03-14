@@ -143,7 +143,7 @@
 | Project Name | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **Faith__WaY___APP** | A feature-rich Islamic lifestyle app with prayer timings, Qibla finder, Quran reader, and Namaz tracker. | `Flutter` `Firebase` `Hive` `OneSignal` | [View Repo](https://github.com/Maher767Ahmad/Faith__WaY___APP) |
-| **BGNU Digital Library** | A modern digital repository with offline PDF reading, department-wise books, and an admin management panel. | `Flutter` `PHP` `MySQL` `Hive` | [View Repo](https://github.com/Maher767Ahmad/portfolio) |
+| **BGNU__DIGITAL__LIBRARY** | A modern digital repository with offline PDF reading, department-wise books, and an admin management panel. | `Flutter` `PHP` `MySQL` `Hive` | [View Repo](https://github.com/Maher767Ahmad/BGNU__DIGITAL__LIBRARY) |
 | **Project 3** | A full-stack application with stunning UI/UX. | `React` `Node.js` | [View Repo](#) |
 
 </div>
