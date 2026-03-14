@@ -11,9 +11,11 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 Final Year Computer Science Student
-- 💻 Passionate about building **full-stack web apps** and **cross-platform mobile apps**
-- 🌱 Currently sharpening my skills in **Flutter**, **Laravel**, and **React**
+- 💻 Passionate about building **full-stack web apps**, **cross-platform mobile apps**, and **RESTful APIs**
+- 🌱 Currently sharpening my skills in **Flutter**, **Laravel**, and **Cloud Infrastructure (AWS)**
 - 🔥 I love turning complex problems into clean, scalable solutions
+- 🚀 Experienced in deploying apps via **Namecheap** and **AWS**
+- 🔔 Specialized in **Push Notifications** using **OneSignal**
 - ⚡ Fun fact: I write code during the day and debug dreams at night
 
 ---
@@ -68,14 +70,22 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-### 🗄️ Database & DevOps
+### 🗄️ Database & Cloud
 <p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Namecheap-FF6000?style=for-the-badge&logo=namecheap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OneSignal-E94E1B?style=for-the-badge&logo=onesignal&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### 🛠️ DevOps & Tools
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ### 🧰 Tools & IDEs
