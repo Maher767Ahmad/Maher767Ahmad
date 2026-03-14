@@ -133,6 +133,7 @@
   <img src="https://raw.githubusercontent.com/Maher767Ahmad/Maher767Ahmad/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
+
 ---
 
 ## 📁 Featured Projects
